@@ -84,7 +84,7 @@ plt.show()
 
 y_pred1=reg.predict(np.array([[13]]))
 y_pred1
-
+```
 ##OUTPUT
 
 ##Head Values
